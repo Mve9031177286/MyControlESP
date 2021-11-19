@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/rectangie"
+    android:orientation="vertical"
+    android:layoutAnimation="@anim/layout_animation">
+
+
+    <EditText
+        android:id="@+id/editTextInput"
+        android:hint="@string/instruction"
+        android:gravity="center"
+        style="@style/e_Text" />
+
+    <Button
+        android:id="@+id/buttonCrypt"
+        android:text="@string/buttonCrypt"
+        style="@style/bButton" />
+
+    <TextView
+        android:id="@+id/editTextCrypt"
+        android:gravity="center"
+        android:textColor="@color/black"
+        style="@style/e_Text" />
+
+    <Button
+        android:id="@+id/buttonCopy"
+        android:text="@string/buttonCopy"
+        style="@style/bButton" />
+
+    <Button
+        android:id="@+id/buttonDeleteAll"
+        android:text="@string/buttonDeleteAll"
+        style="@style/bButton" />
+
+    <Button
+        android:id="@+id/buttonGoDeCrypt"
+        android:text="@string/instruction3"
+        style="@style/bButton" />
+
+</LinearLayout>

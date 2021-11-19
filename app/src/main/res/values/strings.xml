@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CRYPTO SHIFR.ESP</string>
+    <string name="buttonCrypt">CIFRAR</string>
+    <string name="buttonDeCrypt">DESCIFRAR</string>
+    <string name="buttonCopy">COPIAR</string>
+    <string name="textCopy">TEXTO COPIADO</string>
+    <string name="buttonDeleteAll">ELIMINA TODO</string>
+    <string name="instruction">INSERTAR TEXTO DEL MENSAJE</string>
+    <string name="instruction5">"INGRESAR TEXTO CIFRADO "</string>
+    <string name="instruction2">INSERTAR TEXTO</string>
+    <string name="instruction3">IR A DECODIFICACION</string>
+    <string name="instruction4">IR A CIFRADO</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
