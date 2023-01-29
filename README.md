@@ -10,3 +10,5 @@ No espere ninguna protección criptográfica seria, que los mensajes no se pueda
 Y un punto más importante: el texto debe ingresarse EN LETRAS INFERIORES, entonces todo funcionará correctamente.
 Una vez más, trate la aplicación con facilidad, como un juguete, una broma divertida, que, de hecho, lo es.
 ¡Todo está bien!)))
+
+https://youtube.com/shorts/lunNDnjoFwo?feature=share
